@@ -58,9 +58,9 @@ Apenas os comandos `ru`, `tam` e `imp` produzem saída:
 
 | Entrada | Saída |
 | :--- | :--- |
-| `i 10`<br>`i 20`<br>`i 30`<br>`imp` | `10`<br>`20`<br>`30` |
-| `i 10`<br>`i 20`<br>`ii 5`<br>`ii 1`<br>`imp` | `1`<br>`5`<br>`10`<br>`20` |
-| `i 10`<br>`i 20`<br>`ii 5`<br>`ii 1`<br>`tam`<br>`inv`<br>`imp`<br>`ru`<br>`imp`<br>`tam` | `tamanho: 4`<br>`20`<br>`10`<br>`5`<br>`1`<br>`retirado: 1`<br>`20`<br>`10`<br>`5`<br>`tamanho: 3` |
+| i 10<br>i 20<br>i 30<br>imp | 10<br>20<br>30 |
+| i 10<br>i 20<br>ii 5<br>ii 1<br>imp | 1<br>5<br>10<br>20 |
+| i 10<br>i 20<br>ii 5<br>ii 1<br>tam<br>inv<br>imp<br>ru<br>imp<br>tam | tamanho: 4<br>20<br>10<br>5<br>1<br>retirado: 1<br>20<br>10<br>5<br>tamanho: 3 |
 ---
 
 ### Questões de análise
