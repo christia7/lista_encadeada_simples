@@ -33,15 +33,6 @@ int  Tamanho(TipoLista *Lista);
 
 **`Tamanho`** — Percorre a lista a partir do primeiro nó real (após a cabeça) e retorna o número de elementos.
 
----
-
-### Como compilar e testar
-
-```bash
-make
-make test
-```
-
 ### Entrada
 
 A entrada é uma sequência de comandos, um por linha, lidos até o fim do arquivo. Cada comando pode ser:
