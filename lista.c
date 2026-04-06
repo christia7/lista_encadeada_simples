@@ -54,5 +54,5 @@ void Inverte(TipoLista *Lista) {
 
 int Tamanho(TipoLista *Lista) {
     /* IMPLEMENTAR */
-    return 0;
+    return XXX;
 }
